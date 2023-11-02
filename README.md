@@ -23,8 +23,20 @@
 ![Описание](https://github.com/VictoriaLesnova/My_projects/blob/main/SFW%2C%20SFM.jpg) 
 
 2-е Исследовать динамику воронки агрегатора такси
-![Описание](https://github.com/VictoriaLesnova/My_projects/blob/main/Данные%20воронка%20июль.jpg)
+[![Описание](](https://github.com/VictoriaLesnova/My_projects/blob/main/Распределения.jpg)https://github.com/VictoriaLesnova/My_projects/blob/main/Данные%20воронка%20июль.jpg)
 
 ![Описание](https://github.com/VictoriaLesnova/My_projects/blob/main/Данные%20воронка%20август.jpg) 
 
 ![Описание](https://github.com/VictoriaLesnova/My_projects/blob/main/Воронка%20решения.jpg)
+
+## 3-й Проект "Непрерывные распределения", статистика
+
+Что нужно было сделать: 
+
+1-е Построить нормальное распределение 
+
+2-е Построить распределение хи-квадрат
+
+3-е Построить Распределение Стьюдента
+
+![Описание](https://github.com/VictoriaLesnova/My_projects/blob/main/Распределения.jpg)
