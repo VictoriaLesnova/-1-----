@@ -28,4 +28,3 @@
 ![Описание](https://github.com/VictoriaLesnova/My_projects/blob/main/Данные%20воронка%20август.jpg) 
 
 ![Описание](https://github.com/VictoriaLesnova/My_projects/blob/main/Воронка%20решения.jpg)
-Увеличилось время ожидания водителя или водитель долго не находился и из-за этого уменьшилось количество выполненных заказов.
